@@ -1,0 +1,26 @@
+{
+  "name": "mDesign10",
+  "productName": "mDesign10",
+  "version": "0.4.9",
+  "description": "A mobile development platform.",
+  "author": "CommonTime Ltd.",
+  "main": "./app/main.js",
+  "engines": {
+    "electron": "0.37.8"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.8"
+  },
+  "dependencies": {
+  },
+  "build": {
+    "asar": false,
+    "app-bundle-id": "com.commontime.mdesign10",
+    "app-category-type": "public.app-category.developer-tools"
+  },
+  "scripts": {
+    "postinstall": "install-app-deps",
+    "pack": "build",
+    "dist": "build"
+  }
+}

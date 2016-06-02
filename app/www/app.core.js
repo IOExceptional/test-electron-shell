@@ -1,0 +1,1 @@
+/Users/leewalker/Code/mdStudioMobile/src/app.core.js

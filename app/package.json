@@ -1,0 +1,17 @@
+{
+  "name": "mDesign10",
+  "productName": "mDesign10",
+  "version": "0.4.9",
+  "main": "./main.js",
+  "description": "A mobile development platform.",
+  "author": "CommonTime Ltd.",
+  "engines": {
+    "electron": "0.37.8"
+  },
+  "dependencies": {
+    "diskdb": "^0.1.14",
+    "fs-plus": "^2.8.1",
+    "mkdirp": "^0.5.1",
+    "rmdir": "^1.2.0"
+  }
+}
