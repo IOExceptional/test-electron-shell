@@ -1,1 +1,0 @@
-/Users/leewalker/Code/mdStudioMobile/src/app.routes.js
